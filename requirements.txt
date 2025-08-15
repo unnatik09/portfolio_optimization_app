@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+pypfopt
+tqdm
+newsapi-python
+transformers
+torch
+scikit-learn
+joblib
